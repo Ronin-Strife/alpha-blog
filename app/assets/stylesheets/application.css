@@ -23,6 +23,3 @@ body {
 body.home{background-image:url("Sephiroth home page.jpg");}
 
 body.media{background-image:url("Sephiroth and cloud.jpg");}
-
-/* Countdown timer */
-*= require jquery.countdown
