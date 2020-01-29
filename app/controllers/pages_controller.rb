@@ -4,7 +4,7 @@ class PagesController < ApplicationController
 
   end
 
-  def media
+  def about
 
   end
 
