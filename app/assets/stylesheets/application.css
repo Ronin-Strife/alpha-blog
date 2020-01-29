@@ -13,13 +13,3 @@
  *= require_tree .
  *= require_self
  */
-
-/* sets base style */
-body {
-  background-repeat: no-repeat;
-  background-size: 100% 250%;
-}
-/* set background image per page */
-body.home{background-image:url("Sephiroth home page.jpg");}
-
-body.media{background-image:url("Sephiroth and cloud.jpg");}
